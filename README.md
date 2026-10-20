@@ -90,7 +90,7 @@ An analytical dashboard exploring the relationship between market returns, secto
 **Status:** Dashboard project in progress.
 
 <!-- Replace # with your actual repository URL when available. -->
-[Explore project →](https://github.com/harsh-1817?tab=repositories)
+[Explore project →](https://github.com/harsh-1817/nifty50-sector-analysis)
 
 </td>
 <td width="50%" valign="top">
