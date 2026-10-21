@@ -90,24 +90,25 @@ An analytical dashboard exploring the relationship between market returns, secto
 **Status:** Dashboard project in progress.
 
 <!-- Replace # with your actual repository URL when available. -->
-[Explore project →](https://github.com/harsh-1817?tab=repositories)
+[Explore project →](https://github.com/harsh-1817/nifty50-sector-analysis)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Stock Market Data Analysis
+### 📈 Financial API Testing & Data Validation Framework
 
-**SQL · Excel · Financial Research**
+A Python-based framework that validates mutual fund NAV data from MFAPI.in, checks data quality, flags unusual movements, and generates interactive HTML and JSON reports.
 
-A project focused on extracting, organizing, and analyzing stock-market data to uncover performance patterns and present meaningful findings.
+**Key features**
+- API response and JSON structure validation
+- NAV data quality, freshness, and anomaly checks
+- Automated HTML, JSON, and CSV reports
+- NAV trend visualisation and validation summaries
+- Data discrepancies identified for further investigation
 
-- Stock and sector comparisons
-- Data cleaning and structured analysis
-- Excel-based summaries and dashboards
-- Financial data interpretation
+**Tech stack:** Python · REST APIs · Data Validation · Postman/Newman · HTML · JSON · CSV
 
-<!-- Replace # with your actual repository URL when available. -->
-[Explore project →](https://github.com/harsh-1817?tab=repositories)
+🔗 [View Repository](https://github.com/harsh-1817/fin-api-validation)
 
 </td>
 </tr>
@@ -125,6 +126,8 @@ A new project focused on financial data, company research, market trends, or ana
 - Findings and visualizations
 
 **Status:** In development.
+
+
 
 </td>
 <td width="50%" valign="top">
