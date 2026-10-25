@@ -190,11 +190,10 @@ I'm interested in data analytics, business analysis, financial research, and pro
   <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
 </a>
 
-<!-- To add LinkedIn, paste this block and replace the URL:
-<a href="https://www.linkedin.com/in/YOUR-PROFILE/">
+<a href="https://www.linkedin.com/in/harsh-trivedi-679657149/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
--->
+
 
 <br/><br/>
 
