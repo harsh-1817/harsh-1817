@@ -150,7 +150,7 @@ A new project using e-commerce data to understand sales performance, customer be
 </tr>
 </table>
 
----
+<!-- ---
 
 ## 📊 GitHub Statistics
 
@@ -165,8 +165,9 @@ A new project using e-commerce data to understand sales performance, customer be
 <img src="https://streak-stats.demolab.com?user=harsh-1817&hide_border=true&background=0B1739&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" width="90%"/>
 
 </div>
+-->
 
----
+--- 
 
 ## 🏆 Certifications
 
